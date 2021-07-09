@@ -1,0 +1,1 @@
+- 👋 Hi, I’m [@stemount's](https://github.com/stemount) more sensible clone who uses OAuth 2.0 applications of questionable intentions instead of using privileged GitHub user.
